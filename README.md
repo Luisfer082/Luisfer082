@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hola, soy Luis 👋😁
+
+Soy desarrollador full stack developer
+
+
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node,],
+ challenge: "I am doing the #100DaysOfCode challenge focused on react"
+}
 
 <!--
 **Luisfer082/Luisfer082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

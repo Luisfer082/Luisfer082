@@ -1,6 +1,8 @@
 ### Hola, soy Luis 👋😁
 
-Soy desarrollador full stack developer
+"La única forma de hacer un gran trabajo es amar lo que haces." - Steve Jobs
+
+### Conoce un poco (●'◡'●)
 
 ```js
 const Fer = {
@@ -10,9 +12,10 @@ const Fer = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react"
 }
 ```
-<!--
-**Luisfer082/Luisfer082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
